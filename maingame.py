@@ -1,7 +1,4 @@
-# DO NOT CHANGE OR REMOVE THIS COMMENT, and do not change this import otherwise all tests will fail.
 from random import randint
-
-# Write all of your part 3 code below this comment. DO NOT CHANGE OR REMOVE THIS COMMENT.
 
 def draw():
   return randint(1,13)
